@@ -110,20 +110,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "incense"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "flight-of-fragrances",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "class"
           }
         }
       },
@@ -133,7 +133,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "More Offerings",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
