@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Not Just a Banner",
+            "heading": "Sfumato Fragrances",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Botanical Scents from Detroit, Michigan",
             "text_style": "body"
           }
         },
@@ -35,6 +35,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -52,14 +53,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Our Philosophy<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We are a niche perfumery based in Detroit Michigan, producing entirely natural and botanical scent products, including unisex perfumes and colognes, incense, and custom perfumes. Obsessed with the science of scent, and using only plant-based ingredients, we focus on producing memorable gifts with completely unique aroma profiles and culinary inspriation, perfect for anything from a first date to a gift for long-lasting love.<\/p>"
           }
         }
       },
@@ -79,12 +80,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Natural Fragrances",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "natural-fragrances",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
