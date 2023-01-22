@@ -152,7 +152,7 @@
         "cover_image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=tcEc6MBpKuQ",
         "description": "The story of the epiphany fragrance",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
