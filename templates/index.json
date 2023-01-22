@@ -146,10 +146,10 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
+        "heading": "Kevin's Story of Epiphany",
+        "heading_size": "h2",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=tcEc6MBpKuQ",
+        "description": "The story of the epiphany fragrance",
         "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
