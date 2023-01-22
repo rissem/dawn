@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Valentine's day flights are here",
+            "text": "Valentine's day scent flights are here.",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": ""
