@@ -60,7 +60,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We are a niche perfumery based in Detroit Michigan, producing entirely natural and botanical scent products, including unisex perfumes and colognes, incense, and custom perfumes. Obsessed with the science of scent, and using only plant-based ingredients, we focus on producing memorable gifts with completely unique aroma profiles and culinary inspriation, perfect for anything from a first date to a gift for long-lasting love.<\/p>"
+            "text": "<p>Sfumato is a niche perfumery based in Detroit Michigan. We craft a range of perfumes, colognes, and incenses entirely from natural botanicals. <\/p><p>Obsessed with the science of scent we focus on unique aroma profiles inspired by nature and culinary culture. Our scents are perfect for anything from a first date to a gift for long-lasting love.<\/p>"
           }
         }
       },
@@ -89,7 +89,7 @@
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -120,17 +120,18 @@
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "ae9f459c-79ba-4469-a0a8-5d71831d4592": {
+          "type": "product",
           "settings": {
-            "collection": "class"
+            "product": "",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "ae9f459c-79ba-4469-a0a8-5d71831d4592"
       ],
       "settings": {
         "heading": "More Offerings",
@@ -146,7 +147,7 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Kevin's Story of Epiphany",
+        "heading": "Kevin's <i>Epiphany<\/i>",
         "heading_size": "h2",
         "cover_image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=tcEc6MBpKuQ",
@@ -212,6 +213,47 @@
         "padding_top": 56,
         "padding_bottom": 36
       }
+    },
+    "41d721e4-3ecf-402c-828a-060bcd703122": {
+      "type": "collage",
+      "blocks": {
+        "template--15913246294200__41d721e4-3ecf-402c-828a-060bcd703122-16744086365e92a541-1": {
+          "type": "product",
+          "settings": {
+            "product": "mocha-valentino",
+            "second_image": false
+          }
+        },
+        "65c19e90-29cc-4b35-8d6d-a9a8a52767ed": {
+          "type": "product",
+          "settings": {
+            "product": "flight-gift-card",
+            "second_image": false
+          }
+        },
+        "9b466891-2e71-41bb-b443-9db28bda37ec": {
+          "type": "product",
+          "settings": {
+            "product": "epiphany",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15913246294200__41d721e4-3ecf-402c-828a-060bcd703122-16744086365e92a541-1",
+        "65c19e90-29cc-4b35-8d6d-a9a8a52767ed",
+        "9b466891-2e71-41bb-b443-9db28bda37ec"
+      ],
+      "settings": {
+        "heading": "Valentine's Day",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -220,6 +262,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "41d721e4-3ecf-402c-828a-060bcd703122"
   ]
 }
