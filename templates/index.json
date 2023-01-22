@@ -148,6 +148,7 @@
       "settings": {
         "heading": "Kevin's Story of Epiphany",
         "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=tcEc6MBpKuQ",
         "description": "The story of the epiphany fragrance",
         "full_width": false,
@@ -162,28 +163,31 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/meaning_of_sfumato.webp",
+            "title": "The Meaning of Sfumato",
+            "text": "<p><em>Sfumato<\/em> is an Italian word, meaning “turned to smoke, or <br\/>vapor.”  This is very appropriate, since almost immediately upon one of <br\/>our fragrances leaving the confines of its bottle, it turns<\/p>",
+            "link_label": "Read More",
+            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/what-does-sfumato-mean"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/roese-closeup.webp",
+            "title": "A Rose By Any Other Name",
+            "text": "<p>There used to be a time when the only things that looked like roses were roses, and the only things that smelled like roses were roses. Thos were simpler times. You could<\/p>",
+            "link_label": "Read More",
+            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/a-rose-by-any-other-name"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/rose-and-assorted-dried-spices.webp",
+            "title": "Scent and Memory",
+            "text": "<p>Scent and memory are tied together in a variety of weird ways, but htere are two factors that<\/p>",
+            "link_label": "Read More",
+            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/scent-and-memory"
           }
         }
       },
