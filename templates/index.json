@@ -267,46 +267,48 @@
         "padding_bottom": 36
       }
     },
-    "496b840c-6ec5-4845-8f32-ecbb72b59d87": {
-      "type": "rich-text",
+    "5292b104-1c18-434c-9a4f-2e615230b584": {
+      "type": "image-with-text",
       "blocks": {
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-0": {
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Castalia<\/p>",
+            "heading": "Castalia",
             "heading_size": "h1"
           }
         },
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-1": {
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Located in an old Victorian mansion in the Midtown neighborhood of Detroit, Sfumato’s retail space hosts classes, private events, custom scent sessions, and turns into a scented cocktail bar by night. Midtown is home to amazing local restaurants, world-renowned museums, and art house movies, all within a few blocks of our front door.<\/p>"
+            "text": "<p>Located in an old Victorian mansion in the Midtown neighborhood of Detroit, Sfumato’s retail space hosts classes, private events, custom scent sessions, and turns into a scented cocktail bar by night. <\/p>",
+            "text_style": "body"
           }
         },
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-2": {
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-2": {
           "type": "button",
           "settings": {
             "button_label": "Take me to Castalia",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-0",
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-1",
-        "template--15913246294200__496b840c-6ec5-4845-8f32-ecbb72b59d87-16792670458f2581d3-2"
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-0",
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-1",
+        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/storefront.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -318,6 +320,6 @@
     "video",
     "multicolumn",
     "41d721e4-3ecf-402c-828a-060bcd703122",
-    "496b840c-6ec5-4845-8f32-ecbb72b59d87"
+    "5292b104-1c18-434c-9a4f-2e615230b584"
   ]
 }
