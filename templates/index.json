@@ -270,6 +270,7 @@
     },
     "41d721e4-3ecf-402c-828a-060bcd703122": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--15913246294200__41d721e4-3ecf-402c-828a-060bcd703122-16744086365e92a541-1": {
           "type": "product",
