@@ -164,7 +164,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "incense"
+            "collection": "incense-candles"
           }
         },
         "product": {
@@ -270,7 +270,6 @@
     },
     "41d721e4-3ecf-402c-828a-060bcd703122": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--15913246294200__41d721e4-3ecf-402c-828a-060bcd703122-16744086365e92a541-1": {
           "type": "product",
@@ -299,6 +298,7 @@
         "65c19e90-29cc-4b35-8d6d-a9a8a52767ed",
         "9b466891-2e71-41bb-b443-9db28bda37ec"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Valentine's Day",
         "heading_size": "h2",
