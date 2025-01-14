@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -16,7 +25,7 @@
           "type": "text",
           "settings": {
             "heading": "Come Say Hi",
-            "subtext": "<p>In the Detroit area? Come to our shop in Midtown, which transforms into cocktail bar, <a href=\"\/pages\/store-cocktails\" title=\"Store + Cocktails\">Castalia at Sfumato<\/a>, by night.<\/p><p><strong>Retail Hours<\/strong><\/p><p>Fr, Sat, Sun: Noon-4:30PM<\/p><p><strong>Cocktail Hours<\/strong><\/p><p>Wed, Thu, Fri, Sat: 5-11pm<\/p><p><strong>Address<\/strong><\/p><p>In the lower level of 3980 2nd Ave, Detroit, Michigan 48201<\/p><p><\/p><p><\/p>"
+            "subtext": "<p>In the Detroit area? Come to our shop in Midtown, which transforms into cocktail bar, <a href=\"/pages/store-cocktails\" title=\"Store + Cocktails\">Castalia at Sfumato</a>, by night.</p><p><strong>Retail Hours</strong></p><p>Fr, Sat: Noon-4:30PM</p><p><strong>Cocktail Hours</strong></p><p>Wed, Thu, Fri, Sat: 5-11pm</p><p><strong>Address</strong></p><p>In the lower level of 3980 2nd Ave, Detroit, Michigan 48201</p><p></p><p></p>"
           }
         }
       },
