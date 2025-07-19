@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -9,18 +18,17 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Valentine's day scent flights are here.",
+            "text": "Tales of the Cocktail! More details about the Talk and Book!",
             "text_alignment": "center",
             "color_scheme": "background-1",
-            "link": ""
+            "link": "https://www.castaliacocktails.com/kevin-peterson"
           }
         }
       },
       "block_order": [
         "announcement-bar-0"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "header": {
       "type": "header",
