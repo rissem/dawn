@@ -16,7 +16,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Tales of the Cocktail! More details about the Talk and Book!",
             "text_alignment": "center",
