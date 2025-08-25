@@ -13,20 +13,6 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Tales of the Cocktail! More about the Talk and Book!",
-            "text_alignment": "center",
-            "color_scheme": "accent-2",
-            "link": "https://www.castaliacocktails.com/kevin-peterson"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-bar-0"
-      ],
       "settings": {}
     },
     "header": {
