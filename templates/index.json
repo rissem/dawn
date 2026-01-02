@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -21,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
+        "image": "shopify://shop_images/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -53,21 +62,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Who We Are<\/p>",
+            "heading": "<p>Who We Are</p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Sfumato Fragrances is a niche perfumery based in Detroit, Michigan, producing entirely botanical scent products, including gender-inclusive natural perfumes and colognes, incense, and custom fragrances. Obsessed with the science of scent, we focus on creating completely unique aroma profiles with culinary inspiration.<\/p>"
+            "text": "<p>Sfumato Fragrances is a niche perfumery based in Detroit, Michigan, producing entirely botanical scent products, including gender-inclusive natural perfumes and colognes, incense, and custom fragrances. Obsessed with the science of scent, we focus on creating completely unique aroma profiles with culinary inspiration.</p>"
           }
         },
         "6a7db917-dd95-478b-a3fd-76d14de70a53": {
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/about-sfumato",
+            "button_link": "shopify://pages/about-sfumato",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -122,21 +131,21 @@
         "template--15913246294200__2d9fb7fa-958b-4265-9958-cf2352cad515-167993182053b230c8-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our Philosophy<\/p>",
+            "heading": "<p>Our Philosophy</p>",
             "heading_size": "h1"
           }
         },
         "template--15913246294200__2d9fb7fa-958b-4265-9958-cf2352cad515-167993182053b230c8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Natural ingredients. Culinary principles. Small batches. Learn more about our guiding principles.<\/p>"
+            "text": "<p>Natural ingredients. Culinary principles. Small batches. Learn more about our guiding principles.</p>"
           }
         },
         "template--15913246294200__2d9fb7fa-958b-4265-9958-cf2352cad515-167993182053b230c8-2": {
           "type": "button",
           "settings": {
             "button_label": "Our Philosophy",
-            "button_link": "\/pages\/about-sfumato#philosophy-heading",
+            "button_link": "/pages/about-sfumato#philosophy-heading",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -158,53 +167,13 @@
         "padding_bottom": 52
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "incense-candles"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "flight-of-fragrances",
-            "second_image": false
-          }
-        },
-        "ae9f459c-79ba-4469-a0a8-5d71831d4592": {
-          "type": "product",
-          "settings": {
-            "product": "nijananda",
-            "second_image": false
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "ae9f459c-79ba-4469-a0a8-5d71831d4592"
-      ],
-      "settings": {
-        "heading": "More Offerings",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 60
-      }
-    },
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Kevin's <i>Epiphany<\/i>",
+        "heading": "Kevin's <i>Epiphany</i>",
         "heading_size": "h2",
-        "cover_image": "shopify:\/\/shop_images\/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=tcEc6MBpKuQ",
+        "cover_image": "shopify://shop_images/Second_Slide_7857642a-74cd-4535-8147-2a4c2a089640.jpg",
+        "video_url": "https://www.youtube.com/watch?v=tcEc6MBpKuQ",
         "description": "The story of the epiphany fragrance",
         "full_width": false,
         "color_scheme": "background-1",
@@ -218,31 +187,31 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/meaning_of_sfumato.webp",
+            "image": "shopify://shop_images/meaning_of_sfumato.webp",
             "title": "The Meaning of Sfumato",
-            "text": "<p><em>Sfumato<\/em> is an Italian word, meaning “turned to smoke, or vapor.”  This is very appropriate, since almost immediately upon one of our fragrances leaving the confines of its bottle, it turns<\/p>",
+            "text": "<p><em>Sfumato</em> is an Italian word, meaning “turned to smoke, or vapor.”  This is very appropriate, since almost immediately upon one of our fragrances leaving the confines of its bottle, it turns</p>",
             "link_label": "Read More",
-            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/what-does-sfumato-mean"
+            "link": "https://sfumatofragrances.com/blogs/news/what-does-sfumato-mean"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/roese-closeup.webp",
+            "image": "shopify://shop_images/roese-closeup.webp",
             "title": "A Rose By Any Other Name",
-            "text": "<p>There used to be a time when the only things that looked like roses were roses, and the only things that smelled like roses were roses. Those were simpler times. You could<\/p>",
+            "text": "<p>There used to be a time when the only things that looked like roses were roses, and the only things that smelled like roses were roses. Those were simpler times. You could</p>",
             "link_label": "Read More",
-            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/a-rose-by-any-other-name"
+            "link": "https://sfumatofragrances.com/blogs/news/a-rose-by-any-other-name"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rose-and-assorted-dried-spices.webp",
+            "image": "shopify://shop_images/rose-and-assorted-dried-spices.webp",
             "title": "Scent and Memory",
-            "text": "<p>Scent and memory are tied together in a variety of weird ways, but there are two factors that<\/p>",
+            "text": "<p>Scent and memory are tied together in a variety of weird ways, but there are two factors that</p>",
             "link_label": "Read More",
-            "link": "https:\/\/sfumatofragrances.com\/blogs\/news\/scent-and-memory"
+            "link": "https://sfumatofragrances.com/blogs/news/scent-and-memory"
           }
         }
       },
@@ -309,50 +278,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "5292b104-1c18-434c-9a4f-2e615230b584": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Scented Cocktails at Castalia",
-            "heading_size": "h1"
-          }
-        },
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Sfumato’s retail space transforms into a scented cocktail bar, Castalia, by night. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Take me to Castalia",
-            "button_link": "https:\/\/www.castaliacocktails.com\/"
-          }
-        }
-      },
-      "block_order": [
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-0",
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-1",
-        "template--15913246294200__5292b104-1c18-434c-9a4f-2e615230b584-1679280314f828e04e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/storefront.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -360,10 +285,8 @@
     "rich_text",
     "featured_collection",
     "2d9fb7fa-958b-4265-9958-cf2352cad515",
-    "collage",
     "video",
     "multicolumn",
-    "41d721e4-3ecf-402c-828a-060bcd703122",
-    "5292b104-1c18-434c-9a4f-2e615230b584"
+    "41d721e4-3ecf-402c-828a-060bcd703122"
   ]
 }
