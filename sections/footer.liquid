@@ -121,7 +121,12 @@
           {%- endfor -%}
         </div>
       {%- endif -%}
-
+<script>
+  window.fd('form', {
+    formId: '69ddb9f43ee515b93ffddbf0',
+    containerEl: '#fd-form-69ddb9f43ee515b93ffddbf0'
+  });
+</script>
       <div class="footer-block--newsletter">
         {%- if section.settings.newsletter_enable -%}
           <div class="footer-block__newsletter">
@@ -129,12 +134,6 @@
               <h2 class="footer-block__heading">{{ section.settings.newsletter_heading | escape }}</h2>
             {%- endif -%}
             <div id="fd-form-69ddb9f43ee515b93ffddbf0"></div>
-<script>
-  window.fd('form', {
-    formId: '69ddb9f43ee515b93ffddbf0',
-    containerEl: '#fd-form-69ddb9f43ee515b93ffddbf0'
-  });
-</script>
             {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
               <input type="hidden" name="contact[tags]" value="newsletter">
               <div class="newsletter-form__field-wrapper">
