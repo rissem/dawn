@@ -35,7 +35,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Join Our Occasional Newsletter",
         "enable_follow_on_shop": false,
         "show_social": true,
